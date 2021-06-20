@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAA;EAER,gBAAgB,EAAO,wBAAK;EAC5B,SAAS,EAAE,MAAM;EACjB,OAAO,EAAC,MAAM;EACd,UAAU,EAAE,MAAM;EAClB,aAAa,EAAE,GAAG;CAUrB",
+    "sources": [
+        "feature-box.scss"
+    ],
+    "names": [],
+    "file": "feature-box.css"
+}
